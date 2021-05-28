@@ -1,0 +1,14 @@
+com/mycompany/calc/resources/JavaEE8Resource.class
+com/jdbc/dao/AlunoDAO.class
+com/jdbc/dao/FuncionarioDAO.class
+com/jdbc/dao/DepartamentoDAO.class
+com/jdbc/bean/Aluno.class
+com/servlet2/Servlet3.class
+com/ipgetter/IpGetter.class
+com/jdbc/bean/Funcionario.class
+com/jdbc/util/Conexao.class
+arquivos/ArquivoDeFora.class
+com/mycompany/calc/JAXRSConfiguration.class
+com/jdbc/JDBC.class
+com/jdbc/bean/Departamento.class
+com/servlet2/sout.class

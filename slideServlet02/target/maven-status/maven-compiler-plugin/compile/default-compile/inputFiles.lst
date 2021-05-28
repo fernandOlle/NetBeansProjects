@@ -1,0 +1,9 @@
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/slideservlet02/resources/JavaEE8Resource.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/bean/LoginUser.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/slideservlet02/JAXRSConfiguration.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/servlets/Search.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/servlets/Login.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/filters/LogFilter.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/dao/LoginUserDAO.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/servlets/Logout.java
+/home/owzi/NetBeansProjects/slideServlet02/src/main/java/com/fernandolle/mertins/util/ValidaID_DEPRICATED.java

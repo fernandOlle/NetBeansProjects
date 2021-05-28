@@ -1,0 +1,9 @@
+com/fernandolle/mertins/filters/LogFilter.class
+com/fernandolle/mertins/util/ValidaID_DEPRICATED.class
+com/fernandolle/mertins/slideservlet02/JAXRSConfiguration.class
+com/fernandolle/mertins/servlets/Login.class
+com/fernandolle/mertins/servlets/Search.class
+com/fernandolle/mertins/slideservlet02/resources/JavaEE8Resource.class
+com/fernandolle/mertins/servlets/Logout.class
+com/fernandolle/mertins/bean/LoginUser.class
+com/fernandolle/mertins/dao/LoginUserDAO.class

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>null</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="styles/styles.css" type="text/css"/>
+    </head>
+    <body style="background-color:#fea300;">
+
+        <script>
+            function fechaolho(className) {
+                var olho = document.getElementById(className);
+                olho.style.top = "95px";
+                olho.style.height = "5px";
+            }
+        </script>
+
+        <script>
+            function abreolho(className) {
+                var olho = document.getElementById(className);
+                olho.style.top = "50px";
+                olho.style.height = "50px";
+            }
+        </script>
+        <section class="container grid grid-template-columns">
+            <div class="face" >  
+                <div id="LeftEye" class="leftEye"></div>
+                <div class="rightEye"></div>
+                <div class="nose"></div>
+                <div class="mouth" onmouseover="fechaolho('LeftEye')" onmouseout="abreolho('LeftEye')"></div>
+            </div>  
+
+            <div class="info" id="info" style="margin-top: 125px;
+                 margin-left: 100px;
+                 width: 350px; "></div>
+        </section>
+
+        <script type="text/javascript" >
+            txt = "<p>Browser Version: " + navigator.appVersion + "</p>";
+            txt += "<p>Cookies Enabled: " + navigator.cookieEnabled + "</p>";
+            txt += "<p>Platform: " + navigator.platform + "</p>";
+            txt += "<p>User-agent header: " + navigator.userAgent + "</p>";
+            document.getElementById("info").innerHTML = txt;
+        </script>
+
+    </body>
+</html>
